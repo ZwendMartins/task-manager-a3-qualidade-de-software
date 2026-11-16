@@ -22,6 +22,16 @@ Documentação referente à segunda etapa do projeto, composta por:
 - Matriz de rastreabilidade
 - Análise de riscos
 
+### Entrega 3 - 16/11/2026
+
+Documentação referente à terceira etapa do projeto, composta por:
+
+- Casos de Teste 
+- Testes Automatizados 
+- Relatório de Inspeção (SonarQube) 
+- Relatório de Métricas 
+- Quality Decision
+
 ## Integrantes
 
 - Emily Pereira do Nascimento - RA: 12524132610
