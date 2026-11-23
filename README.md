@@ -54,7 +54,11 @@ A liberação foi considerada condicionada à resolução dos problemas identifi
 
 ## Entregas
 
-### Entrega 2 — 08/11/2026
+### Entrega 1 — 26/10/2026
+
+Definição do projeto: formação do grupo, criação do repositório e seleção do projeto open source TaskManager que seria utilizado como objeto de avaliação.
+
+### Entrega 2 — 09/11/2026
 
 Documentação referente à segunda etapa do projeto, composta por:
 
