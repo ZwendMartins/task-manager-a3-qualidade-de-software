@@ -32,6 +32,10 @@ Documentação referente à terceira etapa do projeto, composta por:
 - Relatório de Métricas 
 - Quality Decision
 
+### Entrega 4 - 23/11/2026
+
+Entrega final e apresentação oral. A apresentação está em docs/.
+
 ## Integrantes
 
 - Emily Pereira do Nascimento - RA: 12524132610
