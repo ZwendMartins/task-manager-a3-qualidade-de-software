@@ -11,6 +11,47 @@ O repositório reúne a documentação, os artefatos e as entregas desenvolvidos
 **Repositório original do projeto:**  
 [TaskManager](https://github.com/guuipauuli/taskmanager)
 
+## Tecnologias
+
+* Frontend: React, TypeScript e Vite.
+* Backend: Java 21 e Spring Boot.
+* Banco de dados: PostgreSQL.
+* Mensageria: Apache Kafka.
+* Infraestrutura: Docker e Docker Compose.
+* Qualidade: JUnit, Mockito, Vitest, JaCoCo e SonarQube.
+
+## Estrutura do Repositório
+
+* docs/ — documentação produzida durante a avaliação.
+* taskmanager-tests.zip — cópia do projeto utilizada pelo grupo, contendo os testes e ajustes realizados.
+* README.md — apresentação e orientação do repositório.
+
+## Documentação
+
+* Documentação da Arquitetura
+* Análise de Riscos
+* Plano de Testes
+* Matriz de Rastreabilidade
+* Casos de Teste
+* Relatório de Inspeção
+* Relatório de Métricas
+* Quality Decision
+
+Consulte a pasta docs/ para acessar o material completo.
+
+## Resultado da Avaliação
+
+| Indicador | Resultado |
+|---|---:|
+| Testes automatizados | 43 |
+| Taxa de aprovação | 86,0% |
+| Cobertura de linhas — Backend | 82,4% |
+| Defeitos identificados | 10 |
+
+## Decisão final: Conditional
+
+A liberação foi considerada condicionada à resolução dos problemas identificados e ao cumprimento dos critérios estabelecidos na Quality Decision.
+
 ## Entregas
 
 ### Entrega 2 — 08/11/2026
